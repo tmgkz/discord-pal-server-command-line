@@ -1,4 +1,4 @@
-# Discord Pal Server Command
+# Discord Pal Server Command Line
 ## Overview
 - Discordのチャット内容を拾ってPalServerを動かしているローカルマシンでコマンドを実行
 
